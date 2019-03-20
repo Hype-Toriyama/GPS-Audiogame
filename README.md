@@ -13,3 +13,4 @@ after hearing them once.
 To-Do:
 - Up until now, Unity's editor is the editor to use. There is no seperate editor
 - Menu currently only supports one scene/ level (which is all I needed up until now)
+- Map parts are currently downloaded and cut by hand (which, again, is all I needed up until now). Integration of openstreetmaps would be nice
