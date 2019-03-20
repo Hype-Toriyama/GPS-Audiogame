@@ -9,3 +9,7 @@ Regarding your decision, the next place (place D) will have different encounters
 
 I wrote it, because already existing GPS services did not meet the "game" requirements, like enabling and disabling story parts
 after hearing them once.
+
+To-Do:
+- Up until now, Unity's editor is the editor to use. There is no seperate editor
+- Menu currently only supports one scene/ level (which is all I needed up until now)
